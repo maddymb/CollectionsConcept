@@ -15,6 +15,7 @@ public class ArrayListTest {
 		ar.add(20);
 		ar.add(90);
 		
+	
 		
 		System.out.println("*****Using Advanced For Loop********");
 		for(int  a:ar) {
