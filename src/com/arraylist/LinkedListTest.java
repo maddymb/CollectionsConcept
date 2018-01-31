@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class LinkedListTest {
 
-	public static <E> void main(String[] args) {
+	public static void main(String[] args) {
 		
 		LinkedList<String> ll=new LinkedList<String>();
 		
